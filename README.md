@@ -32,5 +32,5 @@ The school wants to create an Android-based exam system to be more efficient and
 
 ![WhatsApp Image 2025-02-09 at 18 00 58 (1)](https://github.com/user-attachments/assets/0db5e1c8-0d07-44a3-8d89-f9409f7f4044)
 - This is the display if you want to leave the application
-- jika menekan oke maka aplikasi akan tertutup dengan benar dan ujian selesai
+- If you press OK then the application will close properly and the test is complete
 
